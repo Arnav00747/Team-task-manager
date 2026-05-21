@@ -1,5 +1,3 @@
-
-LIVE DEMO:-https://web-production-7293.up.railway.app/
 ================================================================
    TEAM TASK MANAGER — ETHARA.AI FULL STACK ASSESSMENT
    Built by: Arnav Kumar | KIET Group of Institutions
@@ -95,3 +93,4 @@ tasks          - id, title, description, project_id, assigned_to,
                  created_by, status, priority, due_date, created_at
 
 ================================================================
+LIVE DEMO:-https://web-production-7293.up.railway.app/
